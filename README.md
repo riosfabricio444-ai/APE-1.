@@ -6,4 +6,4 @@
 
 ## Volver a contenidos de la unidad 1:
 
-### [clic aqui📂](SEMESTRE.md)
+### [clic aqui📂](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/UNIDAD1.md#5-validaci%C3%B3n-de-argumentos)
